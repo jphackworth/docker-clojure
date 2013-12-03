@@ -1,4 +1,4 @@
-# Dockerfile for Clojure/Lein/Java7 on Ubuntu 12.04
+# Dockerfile for Clojure on Ubuntu 
 
 ## Overview
 
